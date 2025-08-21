@@ -1,7 +1,6 @@
 package com.daniela.dsList.dto;
 
 import com.daniela.dsList.entities.GameList;
-import org.springframework.beans.BeanUtils;
 
 public class GameListDTO {
 
